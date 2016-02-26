@@ -49,7 +49,7 @@ If the estimation of the dispersion parameter \eqn{\phi} in the iterative weigth
 }
 
 \author{
-  Josu Najera
+  Josu Najera-Zuloaga
   
   Dae-Jin Lee
 }
