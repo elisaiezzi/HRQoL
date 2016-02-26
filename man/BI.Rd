@@ -32,7 +32,7 @@ where \eqn{c(y,\phi)} is a function that is approximated by the deviance of the 
 }
 
 \author{
-Josu Najera Zuloaga
+Josu Najera-Zuloaga
 
 Dae-Jin Lee
 }
