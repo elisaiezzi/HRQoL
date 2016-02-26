@@ -55,7 +55,7 @@ The estimation of the parameters is done by likelihood approximation, via iterat
 }
 
 \author{
-Josu Najera Zuloaga
+Josu Najera-Zuloaga
 
 Dae-Jin Lee
 }
