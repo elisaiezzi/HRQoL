@@ -51,7 +51,7 @@ Remplacing the prevous formula in the likelihodd of the response variable \eqn{y
 If the \code{disp} option is TRUE, the dispersion parameter is going to be done using the bias-corrected method of moments, that is the same as the method of moments, but divided by the number of observation minus the number of parameters instead of only divided by the number of observations. 
 }
 \author{
-  Josu Najera
+  Josu Najera-Zuloaga
   
   Dae-Jin Lee
 }
