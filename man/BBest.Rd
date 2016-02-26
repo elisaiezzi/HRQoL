@@ -39,7 +39,7 @@ The variance of the estimations is calculated by maximum likelihood by the secon
 }
 
 \author{
-Josu Najera 
+Josu Najera-Zuloaga
 
 Dae-Jin Lee
 }
