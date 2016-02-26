@@ -32,7 +32,7 @@ On the other hand, once the mle of the probability parameter has been found out,
 We replace the estimated value of the probability parameter and the calculated variance of the variable in the formula giving the estimated value of the dispersion parameter. 
 }
 \author{
-Josu Najera Zuloaga
+Josu Najera-Zuloaga
 
 Dae-Jin Lee
 }
