@@ -45,7 +45,7 @@ Each observation of the HRQoL measured by the SF-36 is divided in eight domains,
 }
 
 \author{
-Josu Najera Zuloaga
+Josu Najera-Zuloaga
 
 Dae-Jin Lee
 }
